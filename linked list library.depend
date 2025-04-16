@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1724463977 source:c:\users\home\documents\library program\linked list library\functions.c
+	"stdtypes.h"
+	"functions.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+
+1724261950 c:\users\home\documents\library program\linked list library\stdtypes.h
+
+1724464668 c:\users\home\documents\library program\linked list library\functions.h
+
+1724464212 source:c:\users\home\documents\library program\linked list library\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"stdtypes.h"
+	"functions.h"
+
