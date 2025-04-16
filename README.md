@@ -54,7 +54,7 @@ Upon running the program, you will be asked to set a password. After setting and
  7. View books of a certain author
  8. View books from the cheapest
  9. View the books from the most expensive
-10. Exit
+ 10. Exit
 
 Choose an option by entering the corresponding number and follow the prompts.
 
